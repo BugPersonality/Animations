@@ -2,5 +2,5 @@
 
 ## StarWarsTextAnimation
 
-![](/Gif/CommonModeOscillation.gif)
+![](/Gifs/StarWarsAnimation.gif)
 ![Code here](/AnimationsSwiftUI/AnimationsSwiftUI/StarWarsTextAnimation/StarWarsTextView.swift)
